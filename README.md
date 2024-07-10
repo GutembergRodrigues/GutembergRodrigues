@@ -1,4 +1,4 @@
-## Hi there , Welcome to My GitHub 👋🙋🏻
+## ![Header](https://github.com/GutembergRodrigues/GutembergRodrigues/assets/17459375/c88ecdae-2ecf-4934-bf83-fc6fa7b263f7) 
 
 ## About Me 🧑
 🧑‍🎓 My name is Gutemberg Rodrigues, I am a data analyst. I live in Brazil, I am 25 years old and I have a degree in Computer Science from Faculdade Católica Da Paraíba. At the moment, I have two postgraduate scholarships, one in Data Analysis and another in Data Science at Faculdade Anhanguera São Paulo.
