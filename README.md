@@ -3,9 +3,9 @@
 ## About Me 🧑
 🧑‍🎓 My name is Gutemberg Rodrigues, I am a Data Analyst. I live in Brazil, I am 25 years old and I have a degree in Computer Science from Faculdade Católica Da Paraíba. At the moment, I have two postgraduate scholarships, one in Data Analysis and another in Data Science at Faculdade Anhanguera São Paulo.
 
-👨‍💻 I am passionate about data, data visualization, data cleansing and data processing. My focus is to improve my skills as a data analyst by focusing on the most commonly used tools to extract the best insights.
+👨‍💻 I am passionate about Data, Data Visualization, Data Cleansing and Data Processing. My focus is to Improve my Skills as a Data Analyst by Focusing on the most commonly used tools to extract the best insights.
 
-📂  Check out my data analysis portfolio. There, you’ll find solved business cases involving data visualization, dashboard creation, exploratory data analysis and data cleansing, pre-processing and transformation projects, and more.
+📂  Check out my Data Analysis Portfolio. There, you’ll find solved business cases involving data visualization, dashboard creation, exploratory data analysis and data cleansing, pre-processing and transformation projects, and more.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Descrição do GIF" width="400"/>
  
