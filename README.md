@@ -7,5 +7,5 @@
 
 📚 My skills and knowledge include Python , SQL , Excel , R , Power BI , ETL , Statistics , Business Analysis , Business Intelligence , Data Visualization e Machine Learning
  
-## Contact me 🌍
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gutemberganalista/)
+## Hard Skills 🌍
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
