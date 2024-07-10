@@ -1,7 +1,7 @@
-## ![Header](https://github.com/GutembergRodrigues/GutembergRodrigues/assets/17459375/c88ecdae-2ecf-4934-bf83-fc6fa7b263f7) 
+## ![Header](https://github.com/GutembergRodrigues/GutembergRodrigues/assets/17459375/bad225cb-a9bf-4215-abd4-1b190cf4ead4) 
 
 ## About Me 🧑
-🧑‍🎓 My name is Gutemberg Rodrigues, I am a data analyst. I live in Brazil, I am 25 years old and I have a degree in Computer Science from Faculdade Católica Da Paraíba. At the moment, I have two postgraduate scholarships, one in Data Analysis and another in Data Science at Faculdade Anhanguera São Paulo.
+🧑‍🎓 My name is Gutemberg Rodrigues, I am a Data Analyst. I live in Brazil, I am 25 years old and I have a degree in Computer Science from Faculdade Católica Da Paraíba. At the moment, I have two postgraduate scholarships, one in Data Analysis and another in Data Science at Faculdade Anhanguera São Paulo.
 
 👨‍💻 I am passionate about data, data visualization, data cleansing and data processing. My focus is to improve my skills as a data analyst by focusing on the most commonly used tools to extract the best insights.
 
