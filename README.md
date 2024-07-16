@@ -29,4 +29,5 @@
 <a href="https://kaggle.com/gutembergrodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gutembergrodrigues" height="30" width="40" /></a>
 <a href="https://instagram.com/rodriiguesxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodriiguesxz" height="30" width="40" /></a>
 <a href="https://medium.com/@gutemberganalista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gutemberganalista" height="30" width="40" /></a>
+<a href="mailto:gutembergrodrigues07@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="40" alt="gmail logo"  />
 </p>
